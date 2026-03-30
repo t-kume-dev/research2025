@@ -1,4 +1,4 @@
-# Research: MR-based Outing Support System (HoloLens 2)
+# Research: System for preventing forgetfulness before going out using mixed reality
 
 本リポジトリは、HoloLens 2を用いた複合現実（MR）による外出支援システムの研究開発プロジェクトです。
 現在、ソースコードの公開に向けて整理・クリーンアップを行っています。
