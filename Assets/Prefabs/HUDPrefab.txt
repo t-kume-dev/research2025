@@ -1,0 +1,2 @@
+This folder should contain a HUD Canvas prefab with a TextMeshProUGUI element bound to HUDController.RoomNameText.
+Create a Canvas in Unity, add TextMeshPro text, attach HUDController script, and assign references.

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 0
+    path: Assets/Scenes/HandIdentifier.unity
+    guid: dece0665031802a41a5b75303eb909cd
+  - enabled: 0
+    path: Assets/Scenes/GraspIdentifier.unity
+    guid: 9f6bbc396a36f3c4e978660ceecbbfae
+  - enabled: 1
+    path: Assets/Scenes/RegisterItem.unity
+    guid: 40734dcf23e1fd24d81fdcde9bedd763
+  m_configObjects:
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 748c226414b5d064bbd869d0b20b5c2d,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 6bd361be614517a4d9a7b8743bc406e7,
+      type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 0d838065dc75fb74eb186cacb58bb0eb,
+      type: 2}
